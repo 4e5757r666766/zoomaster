@@ -1,0 +1,28 @@
+header img{
+    height:60px;
+}
+body{
+    background-color: PaleGreen;
+    color:Indigo;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+nav a {
+    text-decoration: none;
+border-radius:20px;
+    padding: 10px;
+    margin: 20px;
+    font-weight:100;
+    border: 5px solid Indigo;
+    background-color: indigo;
+    color:PaleGreen;    
+}
+h1{
+    background-color: HotPink;
+}
+h2{background-color:Tomato;}
+.classimgone{
+    height:400px;
+}
